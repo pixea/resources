@@ -7,6 +7,7 @@ Príručka k značke a jej vizuálnému zobrazeniu.
 |-------------------------|----------------------------|---------------------|------------------------|
 |[.svg](logo/Logotype.svg)|[.svg](logo/Logotype_BW.svg)|[.svg](logo/Icon.svg)|[.svg](logo/Icon_BW.svg)|
 |[.png](logo/Logotype.png)|[.png](logo/Logotype_BW.png)|[.png](logo/Icon.png)|[.png](logo/Icon_BW.png)|
+|[.eps](logo/Logotype.eps)|[.eps](logo/Logotype_BW.eps)|[.eps](logo/Icon.eps)|[.eps](logo/Icon_BW.eps)|
 
 ### Logo, ako také
 Logo sa skladá z názvu "pixea" a štyroch farebných prúžkov, ktoré predstavujú farebný model CMYK. Tento farebný model vyzobrazuje, že značka je spojená s tlačou.

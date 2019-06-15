@@ -6,6 +6,7 @@
 |-------------------------|----------------------------|---------------------|------------------------|
 |[.svg](logo/Logotype.svg)|[.svg](logo/Logotype_BW.svg)|[.svg](logo/Icon.svg)|[.svg](logo/Icon_BW.svg)|
 |[.png](logo/Logotype.png)|[.png](logo/Logotype_BW.png)|[.png](logo/Icon.png)|[.png](logo/Icon_BW.png)|
+|[.eps](logo/Logotype.eps)|[.eps](logo/Logotype_BW.eps)|[.eps](logo/Icon.eps)|[.eps](logo/Icon_BW.eps)|
 
 ### The logo itself
 The logo consists of the brand name "pixea" and four color stripes representing the CMYK color model. This color model shows that the brand is connected to print.
